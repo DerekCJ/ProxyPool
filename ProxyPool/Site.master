@@ -56,7 +56,8 @@
                         <li><a runat="server" href="ProxySourceMgmt.aspx">代理源配置</a></li>
                         <li><a runat="server" href="ProxyValidationMgmt.aspx">验证方式配置</a></li>
                         <li><a runat="server" href="ProxyServerList.aspx">全部库存</a></li>
-                        <li><a runat="server" href="log.aspx">日志</a></li>
+                        <li><a runat="server" href="Log.aspx">日志</a></li>
+                        <li><a runat="server" href="Test.aspx">测试</a></li>
                     </ul>
                 </div>
             </div>
